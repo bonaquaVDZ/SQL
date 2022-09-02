@@ -1,3 +1,4 @@
+
 Platform: Udemy
 Course: The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert
 Instructor: Colt Steele
@@ -17,3 +18,5 @@ Description:
 9. Learn to navigate the treacherous world of storing dates and times
 10. Clone the database structure of a photo sharing social network
 11. Write Javascript code to generate fake data sets
+
+/Users/vadzimramaniuk/Code/SQL/CS-MySQL-Bootcamp/Certificates/UC-e33cd870-39c6-46c3-843e-93c1a29bb6de.jpeg
