@@ -20,3 +20,4 @@ Description:
 11. Write Javascript code to generate fake data sets
 
 
+![image](https://user-images.githubusercontent.com/70633897/188131907-b7221837-ff2c-465d-89e6-dbd366157eba.png)
