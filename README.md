@@ -1,3 +1,8 @@
+# SQL Sandbox
+
+A repository dedicated to my SQL learning journey, where I can freely explore and experiment with different SQL projects and concepts. This folder serves as a playground for me to practice SQL queries, design and implement database structures, and gain expertise in database management tasks. From basic CRUD operations to more advanced database manipulation and optimization tasks, this GitHub folder is my sandbox for honing my SQL skills, working with databases, and mastering SQL.
+
+
 
 Platform: Udemy
 Course: The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert
